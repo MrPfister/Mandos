@@ -1,4 +1,5 @@
 # Mandos
-Forces CDK compliance to rules by decorating AWS resource creation via param injection
+Has the dual function of providing a warning framework for CDK compliance; akin to CDK nag, but can also force compliance and act as a test framework by injecting params into AWS resource creation.
 
-The name Mandos derives from Tolkien's Silmarillion, whom is one of the Valar; the powers of Arda. "He forgets nothing; and he knows all things that shall be"
+**Mandos** *from JRR. Tolkiens Silmarillion. An Ainu, one of the Aratar. He is responsible for pronouncing the doom and judgement of the powers of Arda.*
+
